@@ -1,8 +1,8 @@
 ========== HEADER ==========
-.nav__logo
+.nav_ _logo
 Yoga
 
-.nav__link
+.nav_ _link
 Home
 
 Health
@@ -13,12 +13,12 @@ Follow
 
 
 ========== HOME ==========
-.home__title
+.home_ _title
 Choose Your 
 Best <div>Yoga</div>
 Teacher
 
-.home__description
+.home_ _description
 Calm your mind and body with the best 
 yoga teachers available, relax your day 
 and stay positive.
@@ -26,7 +26,7 @@ and stay positive.
 .button
 Get Started Free
 
-.home__box
+.home_ _box
 300+
 Yoga Class
 
@@ -35,15 +35,15 @@ Participants
 
 
 ========== LIST ==========
-.list__number
+.list_ _number
 #01
 
-.list__description
+.list_ _description
 Get a list of specific influencers in 
 your niche at your fingertips so you can 
 focus on managing your status.
 
-.list__button
+.list_ _button
 Next
 
 
@@ -52,7 +52,7 @@ Next
 Bring Happiness To 
 Good Health!
 
-.health__description
+.health_ _description
 If you take care of your good health, take 
 care of your mentality and lead a healthy 
 life with positive thoughts every day.
@@ -60,7 +60,7 @@ life with positive thoughts every day.
 .button
 Let’s Start
 
-.health__title .health__number
+.health_ _title .health_ _number
 Heart Rate
 168 bpm
 
